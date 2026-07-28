@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<circle cx="85" cy="110" r="32" fill="var(--skin-base,#fcd9b8)" stroke="#1a1a1a" stroke-width="3"></circle>
+<path d="M58 95 Q55 70 85 67 Q115 70 112 95 Q105 85 98 88 Q92 92 88 100 L85 80 L82 100 Q78 92 72 88 Q65 85 58 95 Z" fill="#6b4528" stroke="#1a1a1a" stroke-width="2.5"></path>
+<ellipse cx="77" cy="113" rx="3" ry="4" fill="#1a1a1a"></ellipse>
+<ellipse cx="93" cy="113" rx="3" ry="4" fill="#1a1a1a"></ellipse>
+<path d="M77 127 Q85 132 93 127" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"></path>
+<path d="M60 145 L110 145 L115 200 L55 200 Z" fill="#5a8acc" stroke="#1a1a1a" stroke-width="3"></path>
+<circle cx="205" cy="110" r="32" fill="var(--skin-base,#fcd9b8)" stroke="#1a1a1a" stroke-width="3"></circle>
+<path d="M175 100 Q170 75 205 70 Q240 75 235 100 Q225 85 215 90 Q208 95 205 105 L205 80 Q200 90 195 88 Q183 90 175 100 Z" fill="#f4a4c8" stroke="#1a1a1a" stroke-width="2.5"></path>
+<ellipse cx="197" cy="113" rx="3" ry="4" fill="#1a1a1a"></ellipse>
+<ellipse cx="213" cy="113" rx="3" ry="4" fill="#1a1a1a"></ellipse>
+<path d="M197 127 Q205 132 213 127" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"></path>
+<path d="M180 145 L230 145 L235 200 L175 200 Z" fill="#e8443a" stroke="#1a1a1a" stroke-width="3"></path>
+<path d="M110 165 L175 165 M120 155 L110 165 L120 175 M165 155 L175 165 L165 175" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"></path>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<circle cx="100" cy="100" r="35" fill="var(--skin-base,#fcd9b8)" stroke="#1a1a1a" stroke-width="3"></circle>
+<path d="M75 95 Q70 65 100 60 Q130 65 125 95 Q115 80 105 85 Q100 95 100 105 L95 75 L85 90 Q80 85 75 95 Z" fill="#5e3a24"></path>
+<g fill="#1a1a1a"><ellipse cx="90" cy="103" rx="3" ry="4"></ellipse><ellipse cx="110" cy="103" rx="3" ry="4"></ellipse></g>
+<path d="M93 115 Q100 120 107 115" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"></path>
+<path d="M70 140 L130 140 L140 200 L60 200 Z" fill="#5a8acc" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"></path>
+<circle cx="220" cy="100" r="35" fill="var(--skin-base,#fcd9b8)" stroke="#1a1a1a" stroke-width="3"></circle>
+<path d="M195 95 Q190 65 220 60 Q250 65 245 95 Q235 80 225 85 Q220 95 220 105 L215 75 L205 90 Q200 85 195 95 Z" fill="#a04030"></path>
+<g fill="#1a1a1a"><ellipse cx="210" cy="103" rx="3" ry="4"></ellipse><ellipse cx="230" cy="103" rx="3" ry="4"></ellipse></g>
+<path d="M213 115 Q220 120 227 115" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"></path>
+<path d="M190 140 L250 140 L260 200 L180 200 Z" fill="#e8443a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"></path>
+<g><circle cx="140" cy="180" r="22" fill="#5ab048" stroke="#1a1a1a" stroke-width="3"></circle><path d="M135 175 L140 185 L150 170" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path></g>
+<g stroke="#1a1a1a" stroke-width="2.5" fill="none"><path d="M130 130 L165 130 L160 125 M160 135 L165 130"></path></g>
+<text x="145" y="40" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="14" font-weight="900" fill="#1a1a1a">+ Follow</text>
+</svg>

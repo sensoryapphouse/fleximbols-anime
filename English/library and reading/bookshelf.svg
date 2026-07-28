@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<rect x="30" y="20" width="230" height="210" fill="#5e3a24" stroke="#1a1a1a" stroke-width="3.5"></rect>
+<g stroke="#1a1a1a" stroke-width="3" fill="#a0734a">
+<rect x="40" y="30" width="210" height="55"></rect>
+<rect x="40" y="95" width="210" height="55"></rect>
+<rect x="40" y="160" width="210" height="60"></rect>
+</g>
+<g>
+<rect x="48" y="38" width="14" height="42" fill="#e8443a" stroke="#1a1a1a" stroke-width="2"></rect>
+<rect x="64" y="42" width="14" height="38" fill="#5a8acc" stroke="#1a1a1a" stroke-width="2"></rect>
+<rect x="80" y="40" width="14" height="40" fill="#5ab048" stroke="#1a1a1a" stroke-width="2"></rect>
+<rect x="96" y="44" width="14" height="36" fill="#9b6dc8" stroke="#1a1a1a" stroke-width="2"></rect>
+<rect x="112" y="40" width="14" height="40" fill="#f4ca3a" stroke="#1a1a1a" stroke-width="2"></rect>
+<rect x="128" y="38" width="14" height="42" fill="#e8443a" stroke="#1a1a1a" stroke-width="2"></rect>
+<rect x="144" y="44" width="14" height="36" fill="#5a8acc" stroke="#1a1a1a" stroke-width="2"></rect>
+<rect x="160" y="40" width="14" height="40" fill="#5ab048" stroke="#1a1a1a" stroke-width="2"></rect>
+<rect x="176" y="42" width="14" height="38" fill="#9b6dc8" stroke="#1a1a1a" stroke-width="2"></rect>
+<rect x="192" y="44" width="14" height="36" fill="#f4ca3a" stroke="#1a1a1a" stroke-width="2"></rect>
+<rect x="208" y="40" width="14" height="40" fill="#e8443a" stroke="#1a1a1a" stroke-width="2"></rect>
+<rect x="224" y="38" width="14" height="42" fill="#5a8acc" stroke="#1a1a1a" stroke-width="2"></rect>
+</g>
+<g>
+<rect x="48" y="105" width="14" height="40" fill="#5ab048" stroke="#1a1a1a" stroke-width="2"></rect>
+<rect x="64" y="103" width="14" height="42" fill="#9b6dc8" stroke="#1a1a1a" stroke-width="2"></rect>
+<rect x="80" y="107" width="14" height="38" fill="#f4ca3a" stroke="#1a1a1a" stroke-width="2"></rect>
+<rect x="96" y="105" width="14" height="40" fill="#e8443a" stroke="#1a1a1a" stroke-width="2"></rect>
+<rect x="112" y="103" width="14" height="42" fill="#5a8acc" stroke="#1a1a1a" stroke-width="2"></rect>
+<rect x="128" y="107" width="14" height="38" fill="#5ab048" stroke="#1a1a1a" stroke-width="2"></rect>
+<rect x="144" y="105" width="14" height="40" fill="#9b6dc8" stroke="#1a1a1a" stroke-width="2"></rect>
+<rect x="160" y="103" width="14" height="42" fill="#f4ca3a" stroke="#1a1a1a" stroke-width="2"></rect>
+<rect x="176" y="107" width="14" height="38" fill="#e8443a" stroke="#1a1a1a" stroke-width="2"></rect>
+<rect x="192" y="105" width="14" height="40" fill="#5a8acc" stroke="#1a1a1a" stroke-width="2"></rect>
+<rect x="208" y="103" width="14" height="42" fill="#5ab048" stroke="#1a1a1a" stroke-width="2"></rect>
+<rect x="224" y="107" width="14" height="38" fill="#9b6dc8" stroke="#1a1a1a" stroke-width="2"></rect>
+</g>
+<g fill="#f4a8c4" stroke="#1a1a1a" stroke-width="2"><rect x="80" y="170" width="30" height="42"></rect><circle cx="170" cy="195" r="14"></circle><rect x="200" y="175" width="35" height="40"></rect></g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<ellipse cx="145" cy="200" rx="105" ry="14" fill="#1a1a1a" opacity="0.2"></ellipse>
+<path d="M30 130 Q35 95 145 95 Q255 95 260 130 L255 180 Q250 200 145 205 Q40 200 35 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round"></path>
+<path d="M40 145 Q145 155 250 145" fill="none" stroke="#dde0e8" stroke-width="2"></path>
+<path d="M55 165 Q35 165 50 130 Q145 110 240 130 Q255 165 235 165 Z" fill="#a04030" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"></path>
+<g fill="#7a3018"><ellipse cx="70" cy="155" rx="9" ry="6"></ellipse><ellipse cx="220" cy="155" rx="9" ry="6"></ellipse><ellipse cx="100" cy="170" rx="6" ry="4"></ellipse><ellipse cx="190" cy="170" rx="6" ry="4"></ellipse></g>
+<path d="M85 135 Q100 120 145 115 Q160 110 175 120 L185 135 Q150 145 100 145 Z" fill="#fcf5e0" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"></path>
+<g fill="#fcf5e0" stroke="#a0734a" stroke-width="0.5"><circle cx="95" cy="130" r="2.5"></circle><circle cx="115" cy="125" r="2.5"></circle><circle cx="135" cy="122" r="2.5"></circle><circle cx="155" cy="125" r="2.5"></circle><circle cx="175" cy="130" r="2.5"></circle><circle cx="105" cy="140" r="2.5"></circle><circle cx="145" cy="135" r="2.5"></circle><circle cx="170" cy="140" r="2.5"></circle></g>
+<g fill="#f4ca3a" stroke="#5e3a24" stroke-width="1.5"><ellipse cx="125" cy="150" rx="11" ry="7"></ellipse></g>
+<g fill="#5ab048" stroke="#1a1a1a" stroke-width="1.5"><circle cx="165" cy="155" r="6"></circle></g>
+<g fill="#a04030" stroke="#1a1a1a" stroke-width="1.5"><circle cx="210" cy="148" r="7"></circle></g>
+<g><path d="M70 60 Q60 80 50 70 Q55 65 65 65 Q65 50 75 55" fill="none" stroke="#dde0e8" stroke-width="3" stroke-linecap="round"></path></g>
+<rect x="100" y="35" width="90" height="22" fill="#fce698" stroke="#1a1a1a" stroke-width="2.5"></rect>
+<text x="145" y="51" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="14" font-weight="900" fill="#a04030">カレー</text>
+</svg>

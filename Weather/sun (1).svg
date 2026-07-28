@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <g stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round" fill="#f4ca3a">
+    <path d="M145 18 L135 50 L155 50 Z"></path>
+    <path d="M145 222 L135 190 L155 190 Z"></path>
+    <path d="M28 120 L60 110 L60 130 Z"></path>
+    <path d="M262 120 L230 110 L230 130 Z"></path>
+    <path d="M62 38 L85 60 L70 75 Z"></path>
+    <path d="M228 38 L205 60 L220 75 Z"></path>
+    <path d="M62 202 L85 180 L70 165 Z"></path>
+    <path d="M228 202 L205 180 L220 165 Z"></path>
+  </g>
+  
+  <circle cx="145" cy="120" r="62" fill="#f4ca3a" stroke="#1a1a1a" stroke-width="4"></circle>
+  
+  <path d="M145 182 Q90 175 88 138 Q92 175 145 178 Q198 175 202 138 Q200 175 145 182 Z" fill="#d4a82a" opacity="0.4"></path>
+  
+  <path d="M115 110 Q122 100 130 110" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"></path>
+  <path d="M160 110 Q168 100 175 110" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"></path>
+  
+  <path d="M122 135 Q145 158 168 135 Q158 152 145 153 Q132 152 122 135 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"></path>
+  <path d="M128 142 Q145 154 162 142 Q156 152 145 153 Q134 152 128 142 Z" fill="#e8688c"></path>
+  
+  <ellipse cx="105" cy="135" rx="10" ry="5" fill="#f4a8c4" opacity="0.7"></ellipse>
+  <ellipse cx="185" cy="135" rx="10" ry="5" fill="#f4a8c4" opacity="0.7"></ellipse>
+</svg>

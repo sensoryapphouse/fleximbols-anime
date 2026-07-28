@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<rect x="55" y="45" width="180" height="135" rx="6" fill="#fcf5e0" stroke="#1a1a1a" stroke-width="3.5"></rect>
+<path d="M55 45 L145 120 L235 45" fill="none" stroke="#1a1a1a" stroke-width="3"></path>
+<g stroke="#1a1a1a" stroke-width="2" fill="none"><path d="M70 165 L130 165"></path><path d="M70 175 L120 175"></path></g>
+<text x="145" y="125" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="35" font-weight="900" fill="#e8443a">SPAM</text>
+<g><circle cx="220" cy="50" r="28" fill="#e8443a" stroke="#1a1a1a" stroke-width="3"></circle><text x="220" y="59" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="26" font-weight="900" fill="#ffffff">!</text></g>
+<g stroke="#e8443a" stroke-width="4" stroke-linecap="round"><line x1="200" y1="155" x2="215" y2="170"></line><line x1="215" y1="155" x2="200" y2="170"></line></g>
+<rect x="190" y="180" width="50" height="22" fill="#a82838" stroke="#1a1a1a" stroke-width="2.5"></rect>
+<text x="215" y="196" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="11" font-weight="900" fill="#ffffff">JUNK</text>
+</svg>

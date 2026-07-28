@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<rect x="200" y="40" width="60" height="160" rx="6" fill="#5e3a24" stroke="#1a1a1a" stroke-width="3.5"></rect>
+<rect x="210" y="55" width="40" height="135" rx="2" fill="#fcd9b8"></rect>
+<circle cx="240" cy="125" r="4" fill="#1a1a1a"></circle>
+<path d="M20 110 L155 110 L155 95 L195 130 L155 165 L155 150 L20 150 Z" fill="#5ab048" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round"></path>
+<g fill="#3a7838"><circle cx="50" cy="130" r="4"></circle><circle cx="100" cy="130" r="4"></circle></g>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2.91 36.19 506.18 506.18"><metadata id="sah">{"v":1,"fig":[["h1","fc"],["h2","fc"]]}</metadata>
+
+<rect x="223" y="286" width="66" height="104" rx="0" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<path d="M 88 512 Q 104 360 200 352 L 312 352 Q 408 360 424 512 Z" fill="#2f8f7a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<rect x="223" y="286" width="66" height="40" rx="0" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="0"/>
+<circle id="h1" data-fig="fc" cx="140" cy="224" r="22" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<circle id="h2" data-fig="fc" cx="372" cy="224" r="22" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<g data-part="hair-back"><g><defs><filter id="oban1558" x="-45%" y="-45%" width="190%" height="190%"><feMorphology in="SourceAlpha" operator="dilate" radius="7.63" result="d"/><feFlood flood-color="#1a1a1a" result="ink"/><feComposite in="ink" in2="d" operator="in"/></filter><defs><clipPath id="anprofan1558"><path transform="translate(0.00 0.00)" d="M 50 -10 L 95 -10 L 95 17 L 83.4 17.5 L 82.3 19.6 L 86.2 23.3 L 86.2 23.8 L 82.9 25.2 L 84.5 26.9 L 83.4 27.9 L 84.2 29.2 L 83.6 30.2 L 84.0 31.0 L 79.5 34.0 L 74.5 35.0 L 75 50 L 50 50 Z"/></clipPath></defs><radialGradient id="SVGID_1__Han1558" cx="-964.8004" cy="627.7829" r="1" gradientTransform="matrix(-13.418 -1.5096 -1.8253 16.224 -11742.2295 -11620.123)" gradientUnits="userSpaceOnUse">
+	<stop offset="0.5264" />
+	<stop offset="1" />
+</radialGradient><radialGradient id="SVGID_00000029741213878105586530000001994225443506931351__Han1558" cx="-828.338" cy="587.249" r="1" gradientTransform="matrix(14.231 2.4505 3.0232 -17.5564 10057.9639 12371.9014)" gradientUnits="userSpaceOnUse">
+	<stop offset="0" />
+	<stop offset="0.5264" />
+</radialGradient><radialGradient id="SVGID_00000158026551166690877300000015395265753243544459__Han1558" cx="-773.3022" cy="592.6037" r="1" gradientTransform="matrix(7.7991 1.3691 4.3671 -24.8766 3494.5217 15824.249)" gradientUnits="userSpaceOnUse">
+	<stop offset="0.5264" />
+	<stop offset="1" />
+</radialGradient><linearGradient id="SVGID_00000107546838153436544590000008797540282365070484__Han1558" gradientUnits="userSpaceOnUse" x1="76.1299" y1="79.6363" x2="58.8799" y2="67.6363" gradientTransform="matrix(1 0 0 -1 0 130)">
+	<stop offset="0" />
+	<stop offset="0.7047" />
+	<stop offset="1" />
+</linearGradient><linearGradient id="SVGID_00000016064692236193959180000016727769374844140937__Han1558" gradientUnits="userSpaceOnUse" x1="68.8048" y1="59.6166" x2="71.999" y2="78.3413" gradientTransform="matrix(1 0 0 -1 0 130)">
+	<stop offset="0.4606" />
+	<stop offset="0.9996" />
+</linearGradient><linearGradient id="SVGID_00000042712254148574599520000009976629367942357636__Han1558" gradientUnits="userSpaceOnUse" x1="74.6622" y1="46.8378" x2="72.4146" y2="52.6903" gradientTransform="matrix(1 0 0 -1 0 130)">
+	<stop offset="0.4561" />
+	<stop offset="1" />
+</linearGradient><radialGradient id="SVGID_00000178199434901229629020000008616344069308397718__Han1558" cx="-966.5922" cy="642.9968" r="1.0002" gradientTransform="matrix(-12.5013 0 0 12.5013 -12012.5645 -8021.1284)" gradientUnits="userSpaceOnUse">
+	<stop offset="0.5264" />
+	<stop offset="1" />
+</radialGradient><linearGradient id="SVGID_1_an1558" gradientUnits="userSpaceOnUse" x1="76.1299" y1="79.6363" x2="58.8799" y2="67.6363" gradientTransform="matrix(1 0 0 -1 0 130)">
+	<stop offset="0" />
+	<stop offset="0.482" />
+	<stop offset="1" />
+</linearGradient><linearGradient id="SVGID_00000156557042109641808280000007103999646641043387_an1558" gradientUnits="userSpaceOnUse" x1="68.8048" y1="59.6166" x2="71.999" y2="78.3413" gradientTransform="matrix(1 0 0 -1 0 130)">
+	<stop offset="0.4606" />
+	<stop offset="0.9996" />
+</linearGradient><linearGradient id="SVGID_00000111886525915899578470000014486069867383508409_an1558" gradientUnits="userSpaceOnUse" x1="74.6622" y1="46.8378" x2="72.4146" y2="52.6903" gradientTransform="matrix(1 0 0 -1 0 130)">
+	<stop offset="0.4561" />
+	<stop offset="1" />
+</linearGradient><radialGradient id="SVGID_00000018213731006221362150000012658191585540120251_an1558" cx="-989.798" cy="678.6669" r="1" gradientTransform="matrix(-6.6809 2.4663 3.5519 9.6217 -8958.7959 -4064.2905)" gradientUnits="userSpaceOnUse">
+	<stop offset="0.45" />
+	<stop offset="1" />
+</radialGradient><radialGradient id="SVGID_00000065061069749478760770000002473757515880215197_an1558" cx="-1026.7023" cy="643.4669" r="1" gradientTransform="matrix(-7.1532 -0.9702 -1.2243 9.0265 -6492.7104 -6787.063)" gradientUnits="userSpaceOnUse">
+	<stop offset="0.45" />
+	<stop offset="1" />
+</radialGradient><radialGradient id="SVGID_00000128444606175900740900000006748512876137500048_an1558" cx="-959.4268" cy="634.7341" r="1" gradientTransform="matrix(-14.6824 -2.2793 -1.7132 11.0363 -12927.4961 -9177.083)" gradientUnits="userSpaceOnUse">
+	<stop offset="0.45" />
+	<stop offset="1" />
+</radialGradient><radialGradient id="SVGID_00000023273673905674623160000003747906415117215384_an1558" cx="-988.8198" cy="737.3953" r="1" gradientTransform="matrix(-7.7522 1.9701 1.2666 4.9838 -8536.5938 -1701.5979)" gradientUnits="userSpaceOnUse">
+	<stop offset="0.45" />
+	<stop offset="1" />
+</radialGradient><g id="haan1558"><g transform="translate(-270.13 67.30) scale(6.889 8.380)"><path d="M 81.6 8.9 L 79.3 4.5 L 75.5 3.6 L 72.0 1.5 L 68.5 3.6 L 63.3 0.8 L 62.4 8.9 L 57.0 10.4 L 58.9 18.2 L 54.6 23.5 L 58.9 28.8 L 57.0 36.6 L 70.1 35.4 L 71.4 12.3 L 80.9 10.1 Z" fill="#2e2b36" stroke="#1a1a1a" stroke-width="1.6" stroke-linejoin="round"/></g><g transform="translate(512.00 0) scale(-1 1) translate(-270.13 67.30) scale(6.889 8.380)"><path d="M 81.6 8.9 L 79.3 4.5 L 75.5 3.6 L 72.0 1.5 L 68.5 3.6 L 63.3 0.8 L 62.4 8.9 L 57.0 10.4 L 58.9 18.2 L 54.6 23.5 L 58.9 28.8 L 57.0 36.6 L 70.1 35.4 L 71.4 12.3 L 80.9 10.1 Z" fill="#2e2b36" stroke="#1a1a1a" stroke-width="1.6" stroke-linejoin="round"/></g></g></defs><use href="#haan1558" filter="url(#oban1558)"/><use href="#haan1558"/></g></g><g data-fig="f" data-part="face"><g transform="translate(-218.30 54.04) scale(7.410 5.692)"><g transform="matrix(1.0207,0,0,1.0207,-1.32509,-2.64997)"><g transform="matrix(1,0,0,1,28.02,0)"><path stroke="#1a1a1a" stroke-width="0.76" stroke-linejoin="round" d="M35.98,57.47C33.06,57.47 30.69,55.1 30.69,52.18L30.69,47.66L41.27,47.66L41.27,52.18C41.27,55.1 38.9,57.47 35.98,57.47Z" fill="#bcd6a8" fill-rule="nonzero" /></g></g><g transform="matrix(1.0207,0,0,1.0207,-1.32509,-2.64997)"><g transform="matrix(1,0,0,1,28.02,0)"><path stroke="#1a1a1a" stroke-width="0.76" stroke-linejoin="round" d="M35.98,9.13C23.41,9.13 20.12,18.88 20.12,32.57C20.12,46.77 30.892,50.44 35.98,50.44C41.068,50.44 51.84,46.87 51.84,32.57C51.85,18.88 48.56,9.13 35.98,9.13Z" fill="#bcd6a8" fill-rule="nonzero" /></g></g></g></g><g data-part="hair"><g transform="translate(-105.64 94.70) scale(5.650 2.123)"><defs><filter id="oban1557" x="-45%" y="-45%" width="190%" height="190%"><feMorphology in="SourceAlpha" operator="dilate" radius="1.0000" result="d"/><feFlood flood-color="#1a1a1a" result="ink"/><feComposite in="ink" in2="d" operator="in"/></filter><defs></defs><g id="haan1557"><path d="M 42.4 18.0 L 41.2 9.3 L 48.6 7.9 L 50.9 -0.6 L 58.2 2.2 L 63.5 -4.1 L 68.8 2.2 L 76.1 -0.6 L 78.4 7.9 L 85.8 9.3 L 84.6 18.0 L 78.9 19.2 L 73.6 26.7 L 68.2 19.2 L 63.5 27.7 L 58.8 19.2 L 53.4 26.7 L 48.1 19.2 Z" fill="#2e2b36" stroke="#1a1a1a" stroke-width="1.6" stroke-linejoin="round"/></g></defs><use href="#haan1557" filter="url(#oban1557)"/><use href="#haan1557"/></g></g>
+
+<line x1="196" y1="176" x2="230" y2="162" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="282" y1="162" x2="316" y2="176" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<path d="M 192 194 L 214 206 L 192 216" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 320 194 L 298 206 L 320 216" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<ellipse cx="256" cy="284" rx="21" ry="27" fill="#7a2a2a" stroke="#1a1a1a" stroke-width="4"/>
+<path d="M 246 286 Q 234 344 258 382 Q 262 394 286 390 Q 306 348 278 286 Z" fill="#6fbf73" stroke="#3a9d4a" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="240" cy="402" r="6" fill="#6fbf73" stroke="#3a9d4a" stroke-width="2"/>
+<circle cx="268" cy="410" r="6" fill="#6fbf73" stroke="#3a9d4a" stroke-width="2"/>
+<circle cx="290" cy="396" r="6" fill="#6fbf73" stroke="#3a9d4a" stroke-width="2"/>
+
+
+</svg>

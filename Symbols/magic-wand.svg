@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<g transform="rotate(-25 145 120)">
+<rect x="80" y="110" width="120" height="14" rx="6" fill="#9b6dc8" stroke="#1a1a1a" stroke-width="3"></rect>
+<g fill="#fcb8d8" stroke="#1a1a1a" stroke-width="1"><circle cx="100" cy="117" r="3"></circle><circle cx="120" cy="117" r="3"></circle><circle cx="140" cy="117" r="3"></circle><circle cx="160" cy="117" r="3"></circle><circle cx="180" cy="117" r="3"></circle></g>
+<g transform="translate(210 117)">
+<path d="M0 -40 L11 -11 L40 -8 L17 8 L25 35 L0 22 L-25 35 L-17 8 L-40 -8 L-11 -11 Z" fill="#fce698" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"></path>
+<path d="M0 -25 L7 -7 L25 -5 L11 5 L16 22 L0 14 L-16 22 L-11 5 L-25 -5 L-7 -7 Z" fill="#f4ca3a" stroke="#fcb8d8" stroke-width="1.5"></path>
+<circle r="6" fill="#ffffff"></circle>
+</g>
+<rect x="73" y="106" width="11" height="22" fill="#fce698" stroke="#1a1a1a" stroke-width="2.5"></rect>
+</g>
+<g fill="#fce698" stroke="#1a1a1a" stroke-width="1.5"><path d="M50 50 L52 60 L62 62 L54 67 L56 77 L50 70 L44 77 L46 67 L38 62 L48 60 Z"></path><path d="M240 200 L243 210 L253 212 L245 217 L248 227 L240 220 L232 227 L235 217 L227 212 L237 210 Z"></path></g>
+<g fill="#fcb8d8" opacity="0.7"><circle cx="40" cy="120" r="4"></circle><circle cx="100" cy="60" r="4"></circle><circle cx="230" cy="60" r="4"></circle></g>
+</svg>

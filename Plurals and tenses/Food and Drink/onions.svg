@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,7.608) scale(0.9683)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <path d="M55 110 Q60 65 110 50 Q145 42 180 50 Q230 65 235 110 Q240 170 200 200 Q175 218 145 220 Q115 218 90 200 Q50 170 55 110 Z" fill="#fce698" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round"></path>
+  
+  <g fill="none" stroke="#c8a82a" stroke-width="2" stroke-linecap="round">
+    <path d="M80 75 Q145 85 215 75"></path>
+    <path d="M70 105 Q145 115 220 105"></path>
+    <path d="M65 135 Q145 145 225 135"></path>
+    <path d="M70 165 Q145 175 220 165"></path>
+    <path d="M85 190 Q145 198 205 190"></path>
+  </g>
+  
+  <g fill="none" stroke="#c8a82a" stroke-width="1.5">
+    <line x1="100" y1="70" x2="105" y2="200"></line>
+    <line x1="145" y1="55" x2="145" y2="215"></line>
+    <line x1="190" y1="70" x2="185" y2="200"></line>
+  </g>
+  
+  <path d="M180 60 Q220 80 230 130 Q230 180 200 205 Q215 195 220 165 Q225 110 180 60 Z" fill="#c8a82a" opacity="0.5"></path>
+  
+  <path d="M135 50 Q130 25 138 18 M145 50 Q145 25 145 18 M155 50 Q160 25 152 18" fill="none" stroke="#5ab048" stroke-width="4" stroke-linecap="round"></path>
+  
+  <path d="M145 220 L140 230 L150 230 Z" fill="#fce698" stroke="#1a1a1a" stroke-width="2.5" stroke-linejoin="round"></path>
+  <g stroke="#a0734a" stroke-width="2" stroke-linecap="round">
+    <line x1="140" y1="225" x2="135" y2="235"></line>
+    <line x1="148" y1="225" x2="150" y2="235"></line>
+  </g>
+</g><g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1658" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1658)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

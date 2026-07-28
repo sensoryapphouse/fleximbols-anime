@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="70" y="100" width="150" height="115" rx="14" fill="#b0b4bc" stroke="#1a1a1a" stroke-width="3.5"></rect>
+  
+  <line x1="145" y1="25" x2="145" y2="55" stroke="#1a1a1a" stroke-width="4"></line>
+  <circle cx="145" cy="20" r="8" fill="#e8443a" stroke="#1a1a1a" stroke-width="3"></circle>
+  
+  <rect x="85" y="50" width="120" height="60" rx="12" fill="#dde0e8" stroke="#1a1a1a" stroke-width="3.5"></rect>
+  
+  <circle cx="115" cy="80" r="11" fill="#5a8acc" stroke="#1a1a1a" stroke-width="2.5"></circle>
+  <circle cx="115" cy="80" r="5" fill="#1a1a1a"></circle>
+  <circle cx="117" cy="78" r="2" fill="#ffffff"></circle>
+  <circle cx="175" cy="80" r="11" fill="#5a8acc" stroke="#1a1a1a" stroke-width="2.5"></circle>
+  <circle cx="175" cy="80" r="5" fill="#1a1a1a"></circle>
+  <circle cx="177" cy="78" r="2" fill="#ffffff"></circle>
+  
+  <rect x="125" y="92" width="40" height="9" fill="#1a1a1a"></rect>
+  <g stroke="#dde0e8" stroke-width="1.5">
+    <line x1="130" y1="94" x2="130" y2="99"></line>
+    <line x1="140" y1="94" x2="140" y2="99"></line>
+    <line x1="150" y1="94" x2="150" y2="99"></line>
+    <line x1="160" y1="94" x2="160" y2="99"></line>
+  </g>
+  
+  <rect x="100" y="125" width="90" height="40" fill="#1a1a1a"></rect>
+  <g fill="#5ab048" stroke="#1a1a1a" stroke-width="1">
+    <circle cx="115" cy="145" r="5"></circle>
+    <circle cx="135" cy="145" r="5"></circle>
+    <circle cx="155" cy="145" r="5"></circle>
+    <circle cx="175" cy="145" r="5"></circle>
+  </g>
+  
+  <circle cx="80" cy="115" r="5" fill="#4a4e58" stroke="#1a1a1a" stroke-width="2"></circle>
+  <circle cx="80" cy="200" r="5" fill="#4a4e58" stroke="#1a1a1a" stroke-width="2"></circle>
+  <circle cx="210" cy="115" r="5" fill="#4a4e58" stroke="#1a1a1a" stroke-width="2"></circle>
+  <circle cx="210" cy="200" r="5" fill="#4a4e58" stroke="#1a1a1a" stroke-width="2"></circle>
+  
+  <rect x="40" y="120" width="30" height="80" rx="6" fill="#b0b4bc" stroke="#1a1a1a" stroke-width="3"></rect>
+  <rect x="220" y="120" width="30" height="80" rx="6" fill="#b0b4bc" stroke="#1a1a1a" stroke-width="3"></rect>
+  <circle cx="55" cy="210" r="14" fill="#dde0e8" stroke="#1a1a1a" stroke-width="3"></circle>
+  <circle cx="235" cy="210" r="14" fill="#dde0e8" stroke="#1a1a1a" stroke-width="3"></circle>
+</svg>
