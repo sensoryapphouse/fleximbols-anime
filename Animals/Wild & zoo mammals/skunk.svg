@@ -1,1 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><path d="M54 148 Q50 108 78 90 Q102 74 130 86 Q144 72 162 84 Q190 72 218 92 Q242 114 232 152 Q218 186 176 196 Q145 208 116 196 Q66 184 54 148z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round"></path><path d="M130 86 Q136 70 145 66 Q154 70 162 84 Q150 76 145 80 Q140 76 130 86z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5"></path><path d="M145 66 L145 200" stroke="#ffffff" stroke-width="8" stroke-linecap="round" opacity="0.9"></path><circle cx="90" cy="110" r="7" fill="#1a1a1a"></circle><circle cx="88" cy="108" r="2.5" fill="#ffffff"></circle><ellipse cx="145" cy="160" rx="28" ry="16" fill="#3a3640" stroke="#1a1a1a" stroke-width="2"></ellipse><g fill="#1a1a1a" opacity="0.4"><ellipse cx="130" cy="162" rx="4" ry="6"></ellipse><ellipse cx="160" cy="162" rx="4" ry="6"></ellipse></g><path d="M176 196 Q194 216 210 220 Q198 210 186 202z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.5"></path></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- big bushy raised tail: full teardrop so silhouette reads -->
+<path d="M 240 372 Q 360 380 400 340 Q 446 292 438 216 Q 430 150 372 150 Q 318 150 314 206 Q 312 240 336 250 Q 372 232 384 252 Q 404 286 384 322 Q 360 360 240 356 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- broad white plume inside tail -->
+<path d="M 338 210 Q 372 196 392 232 Q 410 274 388 314 Q 366 350 320 354" fill="none" stroke="#ffffff" stroke-width="26" stroke-linecap="round"/>
+<!-- body (black) -->
+<path d="M 176 404 Q 134 404 134 326 Q 134 250 214 250 Q 290 250 290 326 Q 290 404 250 404 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- broad white back stripe (two-pronged, classic skunk) -->
+<path d="M 196 262 Q 176 330 188 402 L 214 402 Q 204 330 214 262 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 232 262 Q 252 330 240 402 L 216 402 Q 224 330 214 262 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<!-- feet -->
+<ellipse cx="190" cy="404" rx="22" ry="13" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7"/>
+<ellipse cx="250" cy="404" rx="22" ry="13" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7"/>
+<!-- head -->
+<circle cx="192" cy="200" r="66" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
+<!-- ears -->
+<circle cx="152" cy="152" r="16" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="232" cy="152" r="16" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7"/>
+<!-- white blaze stripe down face -->
+<path d="M 184 140 Q 174 178 184 214 L 200 214 Q 210 178 200 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<!-- snout -->
+<path d="M 158 220 Q 192 256 226 220 Q 214 250 192 250 Q 170 250 158 220 Z" fill="#4a4a4a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="192" cy="232" rx="12" ry="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3"/>
+<!-- eyes (white so they read on black) -->
+<circle cx="166" cy="196" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="218" cy="196" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="166" cy="196" r="3.4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="218" cy="196" r="3.4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+</svg>

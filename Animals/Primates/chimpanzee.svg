@@ -1,1 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><ellipse cx="145" cy="164" rx="64" ry="56" fill="#5a4838"></ellipse><circle cx="145" cy="88" r="52" fill="#5a4838" stroke="#1a1a1a" stroke-width="3.5"></circle><ellipse cx="118" cy="102" rx="22" ry="26" fill="#3a3028"></ellipse><ellipse cx="172" cy="102" rx="22" ry="26" fill="#3a3028"></ellipse><ellipse cx="145" cy="112" rx="34" ry="28" fill="#d8a880"></ellipse><circle cx="130" cy="84" r="7" fill="#1a1a1a"></circle><circle cx="160" cy="84" r="7" fill="#1a1a1a"></circle><circle cx="128" cy="82" r="2.5" fill="#fff"></circle><circle cx="158" cy="82" r="2.5" fill="#fff"></circle><ellipse cx="138" cy="110" rx="7" ry="9" fill="#1a1a1a" opacity="0.6"></ellipse><ellipse cx="152" cy="110" rx="7" ry="9" fill="#1a1a1a" opacity="0.6"></ellipse></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- ears (big, round, sticking out) -->
+<circle cx="138" cy="244" r="44" fill="#3a2a1c" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="138" cy="244" r="22" fill="#caa178" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="374" cy="244" r="44" fill="#3a2a1c" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="374" cy="244" r="22" fill="#caa178" stroke="#1a1a1a" stroke-width="6"/>
+<!-- head dark hair -->
+<path d="M 256 116 C 332 116 380 168 380 244 C 380 332 332 400 256 400 C 180 400 132 332 132 244 C 132 168 180 116 256 116 Z" fill="#3a2a1c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- light face -->
+<path d="M 256 168 C 318 168 350 220 350 284 C 350 350 312 392 256 392 C 200 392 162 350 162 284 C 162 220 194 168 256 168 Z" fill="#e8c79e" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- brow -->
+<path d="M 196 236 Q 224 224 250 236" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 262 236 Q 288 224 316 236" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- eyes -->
+<circle cx="222" cy="258" r="12" fill="#1a1a1a"/>
+<circle cx="290" cy="258" r="12" fill="#1a1a1a"/>
+<!-- nose -->
+<path d="M 240 300 Q 256 312 272 300" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<ellipse cx="244" cy="298" rx="5" ry="6" fill="#1a1a1a"/>
+<ellipse cx="268" cy="298" rx="5" ry="6" fill="#1a1a1a"/>
+<!-- wide mouth/lips -->
+<path d="M 206 344 Q 256 330 306 344 Q 256 376 206 344 Z" fill="#caa178" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 206 344 Q 256 354 306 344" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+</svg>

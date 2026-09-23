@@ -1,20 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-  
-  <path d="M55 90 Q145 50 235 90 Q220 175 145 195 Q70 175 55 90 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"></path>
-  
-  <path d="M75 105 Q145 75 215 105 Q205 165 145 180 Q85 165 75 105 Z" fill="#e8688c" stroke="#1a1a1a" stroke-width="2.5"></path>
-  
-  <path d="M75 105 Q145 80 215 105 L215 120 Q145 100 75 120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5"></path>
-  <g stroke="#1a1a1a" stroke-width="1.5">
-    <line x1="100" y1="110" x2="100" y2="118"></line>
-    <line x1="125" y1="105" x2="125" y2="115"></line>
-    <line x1="145" y1="103" x2="145" y2="115"></line>
-    <line x1="165" y1="105" x2="165" y2="115"></line>
-    <line x1="190" y1="110" x2="190" y2="118"></line>
-  </g>
-  
-  <path d="M105 145 Q145 175 185 145 Q175 168 145 172 Q115 168 105 145 Z" fill="#f4688c" stroke="#1a1a1a" stroke-width="2.5"></path>
-  <path d="M145 155 L145 172" fill="none" stroke="#1a1a1a" stroke-width="1.5"></path>
-  
-  <path d="M95 75 Q145 60 195 75" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" opacity="0.8"></path>
-<g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl497" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl497)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none"><!-- Icon: Microsoft Fluent Emoji, MIT Licence. Rescaled + outline-adjusted for AAC use. --><g transform="translate(40,40) scale(13.5)"><path d="M3.42688 18.2601C3.42688 18.2601 6.03688 15.1802 15.9269 14.5902C25.8169 14.0002 28.5669 18.3102 28.5669 18.3102C28.5669 18.3102 23.8769 21.6302 15.9669 21.8802C15.9669 21.8802 11.0169 22.6101 3.42688 18.2601Z" fill="#523962" stroke="#000000" stroke-width="0.70" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
+<path d="M15.9969 17.52C21.1552 17.52 25.3369 16.5619 25.3369 15.38C25.3369 14.1981 21.1552 13.24 15.9969 13.24C10.8385 13.24 6.65686 14.1981 6.65686 15.38C6.65686 16.5619 10.8385 17.52 15.9969 17.52Z" fill="#f4f4f4" stroke="#000000" stroke-width="0.70" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
+<path d="M26.3969 11.86L29.8869 17.35C30.0792 17.6566 30.0176 17.9983 29.82 18.2236L29.6468 18.5699C27.3768 23.1899 21.8268 27.8099 16.6768 27.8099H15.3268C10.1768 27.8099 4.62684 23.1799 2.32684 18.5699L2.12684 18.1699C2.11731 18.1509 2.10963 18.1316 2.10369 18.1124C1.97352 17.8931 1.95301 17.6068 2.11687 17.35L5.56687 11.93C5.80687 11.43 6.57687 10.39 6.57687 10.39C7.84687 8.92998 9.70687 8 11.7969 8C13.3769 8 14.8369 8.52998 15.9969 9.41998C17.1669 8.52998 18.6169 8 20.1969 8C22.2769 8 24.1469 8.92998 25.4169 10.39C25.4169 10.39 26.1769 11.41 26.3969 11.86ZM3.94878 18.0969L6.02684 18.7299C12.5168 20.6999 19.4468 20.6999 25.9468 18.7299L28.0302 18.0953L23.3269 16.5C18.5769 14.89 13.4169 14.89 8.65687 16.5L3.94878 18.0969Z" fill="#ea3e68" stroke="#000000" stroke-width="0.70" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" /></g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg336" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg336)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

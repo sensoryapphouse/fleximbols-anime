@@ -1,26 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-<g stroke="#7ab8e8" stroke-width="2" fill="none" opacity="0.6"><path d="M0 60 Q145 55 290 60"></path><path d="M0 200 Q145 195 290 200"></path></g>
-<g fill="#fce698" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round">
-<path d="M65 115 L40 100 L50 120 L40 140 L65 130 Q60 120 65 115 Z"></path>
-<path d="M225 115 L250 100 L240 120 L250 140 L225 130 Q230 120 225 115 Z"></path>
-<path d="M145 50 L130 30 L140 55 Z"></path>
-<path d="M145 50 L160 30 L150 55 Z"></path>
-<path d="M145 200 L130 220 L140 195 Z"></path>
-<path d="M145 200 L160 220 L150 195 Z"></path>
-<path d="M115 75 L100 55 L110 80 Z"></path>
-<path d="M175 75 L190 55 L180 80 Z"></path>
-<path d="M115 175 L100 195 L110 170 Z"></path>
-<path d="M175 175 L190 195 L180 170 Z"></path>
-<path d="M70 85 L45 75 L65 95 Z"></path>
-<path d="M220 85 L245 75 L225 95 Z"></path>
-<path d="M70 165 L45 175 L65 155 Z"></path>
-<path d="M220 165 L245 175 L225 155 Z"></path>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<path d="M 336 256 L 410 218 L 400 256 L 410 294 Z" fill="#d9a04a" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<g fill="#e8b24e" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round">
+<polygon points="256 150 246 180 266 180"/>
+<polygon points="306 160 290 186 308 192"/>
+<polygon points="346 188 322 204 338 216"/>
+<polygon points="160 160 176 186 158 192"/>
+<polygon points="120 190 144 206 128 216"/>
+<polygon points="152 332 176 318 158 308"/>
+<polygon points="118 304 142 296 128 282"/>
+<polygon points="206 360 216 332 196 334"/>
+<polygon points="256 366 246 336 266 336"/>
+<polygon points="306 356 290 332 308 326"/>
+<polygon points="100 250 130 244 130 262"/>
+<polygon points="206 152 216 180 196 182"/>
 </g>
-<circle cx="145" cy="125" r="75" fill="#f4ca3a" stroke="#1a1a1a" stroke-width="3.5"></circle>
-<g><circle cx="120" cy="115" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5"></circle><circle cx="120" cy="115" r="9" fill="#1a1a1a"></circle><circle cx="123" cy="111" r="3" fill="#ffffff"></circle></g>
-<g><circle cx="170" cy="115" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5"></circle><circle cx="170" cy="115" r="9" fill="#1a1a1a"></circle><circle cx="173" cy="111" r="3" fill="#ffffff"></circle></g>
-<g fill="#fcb8d8" opacity="0.7"><circle cx="95" cy="145" r="9"></circle><circle cx="195" cy="145" r="9"></circle></g>
-<path d="M125 150 Q145 165 165 150" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.5" stroke-linejoin="round"></path>
-<path d="M130 155 L160 155 L155 162 L135 162 Z" fill="#fcb8d8"></path>
-<g fill="#fce698" stroke="#c8a82a" stroke-width="1"><circle cx="100" cy="100" r="2"></circle><circle cx="135" cy="90" r="2"></circle><circle cx="160" cy="92" r="2"></circle><circle cx="195" cy="100" r="2"></circle></g>
+<circle cx="244" cy="258" r="100" fill="#f0bf52" stroke="#1a1a1a" stroke-width="9"/>
+<g fill="#caa040">
+<circle cx="210" cy="300" r="9"/>
+<circle cx="250" cy="312" r="9"/>
+<circle cx="290" cy="296" r="9"/>
+<circle cx="300" cy="252" r="9"/>
+<circle cx="178" cy="262" r="9"/>
+</g>
+<circle cx="216" cy="232" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="284" cy="232" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="220" cy="236" r="8" fill="#1a1a1a"/>
+<circle cx="288" cy="236" r="8" fill="#1a1a1a"/>
+<ellipse cx="250" cy="292" rx="18" ry="13" fill="#e08a3a" stroke="#1a1a1a" stroke-width="7"/>
 </svg>
